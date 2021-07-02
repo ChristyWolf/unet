@@ -2,7 +2,7 @@ from __future__ import print_function
 from keras.preprocessing.image import ImageDataGenerator
 import numpy as np 
 import os
-import glob
+import glob as glob
 import skimage.io as io
 import skimage.transform as trans
 
